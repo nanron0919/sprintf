@@ -13,10 +13,10 @@ Enjoy it.
 # Examples #
 
 1. all string
-    `console.log(sprintf('%s,%s -> %s', 'Taipei', 'Taiwan', 'Wonderful island')); // Taipei,Taiwan -> Wonderful island`
+>`console.log(sprintf('%s,%s -> %s', 'Taipei', 'Taiwan', 'Wonderful island')); // Taipei,Taiwan -> Wonderful island`
 
 2. String you given but pattern is integer format
-    `console.log(sprintf('%d+%d=%d', 'A', 'B', 'C')); // 0+0=0`
+>`console.log(sprintf('%d+%d=%d', 'A', 'B', 'C')); // 0+0=0`
 
 3. Integer you given but pattern is string format
-    `console.log(sprintf('%s+%s=%s', 1, 2, 3)); // 1+2=3`
+>`console.log(sprintf('%s+%s=%s', 1, 2, 3)); // 1+2=3`
