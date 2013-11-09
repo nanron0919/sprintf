@@ -1,0 +1,4 @@
+sprintf
+=======
+
+sprintf for javascript
