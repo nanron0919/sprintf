@@ -18,5 +18,5 @@ Enjoy it.
 2. String you given but pattern is integer format
     `console.log(sprintf('%d+%d=%d', 'A', 'B', 'C')); // 0+0=0`
 
-3.Integer you given but pattern is string format
+3. Integer you given but pattern is string format
     `console.log(sprintf('%s+%s=%s', 1, 2, 3)); // 1+2=3`
